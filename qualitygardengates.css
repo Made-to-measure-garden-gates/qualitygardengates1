@@ -45,6 +45,7 @@ body {
             color: #ffffff;
             font-weight: bold;
         }
+
 .pulse {
     display: inline-block;
     font-size: 2em;
@@ -65,38 +66,6 @@ body {
     100% {
         transform: scale(1);
     }
-p .typing-effect {
-    Display: flex;
-    Justify-content: center;
-    Align-items: center;
-    Height: 100vh;
-    Background-color: #282c34;
-    Color: white;
-    Font-family: ‘Courier New’, Courier, monospace;
-    Font-size: 2rem;
-  }
-
-  .typing-effect {
-    Border-right: 2px solid;
-    White-space: nowrap;
-    Overflow: hidden;
-    Animation: typing 4s steps(40, end), blink 0.75s step-end infinite;
-  }
-
-  @keyframes typing {
-    From {
-      Width: 0;
-    }
-    To {
-      Width: 100%;
-    }
-  }
-
-  @keyframes blink {
-    50% {
-      Border-color: transparent;
-    }
-  }
 
 #navigation{
   font-weight:400;
@@ -140,7 +109,7 @@ h1 .highlight {
     text-align: center;
     }
 h2 {
-     background: black;
+    background: black;
     color: white;
     padding-top: 30px;
     min-height: 70px;
