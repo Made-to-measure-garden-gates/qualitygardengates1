@@ -103,6 +103,12 @@ h2 .highlight {
     font-weight: bold;
     text-align: center;
     }
+h1 .highlight {
+   font-size: 40px;
+    color: orange;
+    font-weight: bold;
+    text-align: center;
+    }
 h2 {
      background: black;
     color: white;
@@ -111,3 +117,11 @@ h2 {
     border-bottom: #e8491d 3px solid;
     text-align: center;
     }
+h1 {
+     background: black;
+    color: white;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #e8491d 3px solid;
+    text-align: center;
+
