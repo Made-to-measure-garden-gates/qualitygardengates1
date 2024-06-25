@@ -72,7 +72,7 @@ body {
     font-family:impact;
     backgroud-color: black;
 }
-.container{
+#container{
     font-size:20px;
     font-family:serif;
     background-color: rgb(40,25,25); 
