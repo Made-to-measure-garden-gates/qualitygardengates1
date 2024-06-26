@@ -80,22 +80,7 @@ body {
     overflow:auto;
 }
 
-#Paragraph1 {
-    font-size: 40px; 
-    color: mediumseagreen;
-    font-family:roboto;
-    background-color: rgb(40,25,25);
-}
-#Mainheader{
-    padding-top: 40px;
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-bottom: 40px;
-    background-color: black;
-    color: orange;
-    font-family: Serif;
-    text-align: center;
-}
+
 h2 .highlight {
    font-size: 40px;
     color: orange;
