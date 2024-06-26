@@ -67,7 +67,9 @@ body {
         transform: scale(1);
     }
 }
-
+table {
+    border-color: red;
+}
 #navigation{
   font-weight:400;
     font-family:impact;
