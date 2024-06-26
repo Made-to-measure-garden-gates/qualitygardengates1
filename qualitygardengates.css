@@ -1,4 +1,4 @@
-body {
+⁹body {
     background-color: rgb(40,25,25);
     text-align: left;
     width: 90%;
@@ -68,7 +68,7 @@ body {
     }
 }
 table {
-    border-color: red;
+    border-color: #e8491d;
 }
 #navigation{
   font-weight:400;
