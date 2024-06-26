@@ -66,6 +66,7 @@ body {
     100% {
         transform: scale(1);
     }
+}
 
 #navigation{
   font-weight:400;
