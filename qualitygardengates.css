@@ -67,6 +67,9 @@ body {
         transform: scale(1);
     }
 }
+.Paras {
+    color: mediumseagreen;
+}
 table {
     border-color: #e8491d;
     width: 100%;
