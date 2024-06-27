@@ -69,6 +69,7 @@ body {
 }
 table {
     border-color: #e8491d;
+    width: 100%;
 }
 #navigation{
   font-weight:400;
