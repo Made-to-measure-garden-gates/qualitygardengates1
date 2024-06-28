@@ -69,6 +69,8 @@ body {
 }
 .Paras {
     color: mediumseagreen;
+    width: 100%;
+    font-size: 30px;
 }
 table {
     border-color: #e8491d;
