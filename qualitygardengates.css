@@ -80,7 +80,8 @@ table {
 #navigation{
   font-weight:400;
     font-family:impact;
-    backgroud-color: mmediumseagreen;
+    backgroud-color: mediumseagreen;
+    color: black;
 }
 #container{
     font-size:20px;
