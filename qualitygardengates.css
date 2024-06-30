@@ -70,6 +70,10 @@ img{
     100% {
         transform: scale(1);
     }
+    #Pika {
+    width: 100px;
+    height: 100px;
+    }
 }
 .Paras {
     color: mediumseagreen;
